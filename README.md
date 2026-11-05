@@ -58,7 +58,7 @@ A management system for a gym, built around a relational database. It is the mos
 - How to turn business rules (memberships, payments, schedules) into logic.
 - How to work with a team using Git and GitHub.
 
-[View the repository](https://github.com/jdcasanov7/Holdfit_ERP)
+[View the repository](https://github.com/jdcasanova7/Holdfit_ERP)
 
 <br>
 
@@ -78,10 +78,10 @@ Currently working as a commercial support apprentice in the construction and wat
 
 ## Beyond the code
 
-- Football, to play and to watch.
-- Video games, a lifelong hobby and probably where my interest in technology started.
-- Time with friends and family, which I value above almost everything else.
-- Brazilian and Colombian culture, the two places I feel at home in.
+- Soccer: Soccer has always played a fundamental role in my life; aside from when I'm coding, it's the only place where I can reach that state of flow where you simply lose track of time.
+- Video games: I think that almost everyone who is currently passionate about technology and what it's capable of started out with video games, those magical worlds created with great dedication and thousands of lines of code (and I'm no exception).
+- Friends and Family: They are what drive me; they are the people who motivate me every day to do my best and learn everything I can. They are the most important thing in my life.
+- Brazilian and Colombian culture: Although they are neighboring countries, during the time I've been living in Brazil, I've noticed so many differences, which I find really fun and interesting. I'm a very curious person, so getting to know another part of the world so thoroughly has been a wonderful experience for me.
 
 <br>
 
